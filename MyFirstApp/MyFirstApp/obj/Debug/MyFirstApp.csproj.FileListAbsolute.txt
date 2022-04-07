@@ -1,0 +1,13 @@
+C:\Users\Bhanu Singh\source\repos\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\Users\Bhanu Singh\source\repos\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\Users\Bhanu Singh\source\repos\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\Users\Bhanu Singh\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
+C:\Users\Bhanu Singh\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bhanu Singh\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Bhanu Singh\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\Users\Bhanu Singh\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+C:\Users\Bhanu Singh\source\repos\PracticeProject1\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProject1\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProject1\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProject1\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\Users\Bhanu Singh\source\repos\PracticeProject1\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
